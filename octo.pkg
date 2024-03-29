@@ -1,0 +1,11 @@
+{
+    name: "ansi",
+    owner: "Dan<dan@devoured.io>",
+    version: "0.1.0",
+    description: "Personal ANSI codes library",
+    url: "https://github.com/dvrd/ansi",
+    readme: "",
+    license: "",
+    keywords: [],
+    dependencies: {}
+}
