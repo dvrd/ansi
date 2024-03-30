@@ -3,9 +3,11 @@
     owner: "Dan<dan@devoured.io>",
     version: "0.1.0",
     description: "Personal ANSI codes library",
-    url: "https://github.com/dvrd/ansi",
+    url: "github.com/dvrd/ansi",
+    root: "src",
     readme: "",
     license: "",
     keywords: [],
     dependencies: {}
 }
+
